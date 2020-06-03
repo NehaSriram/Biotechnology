@@ -1,9 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TNSTC-DIGITAL-CONTENT-PS-1/Biotechnology/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-We can use this website to create pages and host the website it already comes with a template we can always transfer files to another template.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to TNSTC - Biotechnology , Hope you learn something :)
 
 ### Markdown
 
