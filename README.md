@@ -4,7 +4,7 @@ Welcome to TNSTC - Biotechnology , Hope you learn something :)
 
 ## This website is under construction , Thank you for your patience
 ### Markdown
-[Link](https://github.com/TNSTC-DIGITAL-CONTENT-PS-1/Biotechnology/blob/master/Flipbook/PAGE_flipboook.html)
+[FLIPBOOK](https://github.com/TNSTC-DIGITAL-CONTENT-PS-1/Biotechnology/blob/master/Flipbook/PAGE_flipboook.html)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
