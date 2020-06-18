@@ -1,0 +1,183 @@
+[
+
+  {
+    "QNo.":"1",
+    "question": "What can a microscope  be used to see??",
+    "choice1": "Tiny living cells",
+    "choice2": "Structures of molecules",
+    "choice3": "Small pieces of sand",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+{
+    "QNo.":"2",
+    "question": " What is the main differrence between a simple and a complex microscope?",
+    "choice1": "Size of lenses",
+    "choice2": "Number of lenses",
+    "choice3": "diameter of lenses",
+    "choice4": "All of the above",
+    "answer": 2
+  },
+{
+    "QNo.":"3",
+    "question": "In a basic compound microscope, what will the resulting image look like?",
+    "choice1": "Black and white",
+    "choice2": "stretched",
+    "choice3": "Inverted ",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+{
+    "QNo.":"4",
+    "question": "What are the two main features of a microscope?",
+    "choice1": "Magnification and resolution",
+    "choice2": "color and magnification",
+    "choice3": "Light and dark",
+    "choice4": "None of the above",
+    "answer": 1
+  },
+{
+    "QNo.":"5",
+    "question": "When Was The Electron Microscope invented?",
+    "choice1": "1947",
+    "choice2": "1872",
+    "choice3": "1931",
+    "choice4": "1983",
+    "answer": 3
+  },
+{
+    "QNo.":"6",
+    "question": "What is the resolution of a microscope?",
+    "choice1": "The minimum number of times an object has to be magnified in order to view it clearly",
+    "choice2": "smallest distance by which two points can be separated and still be distinguished as separate objects",
+    "choice3": "The ideal distance separating the two lenses of the microscope",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+{
+    "QNo.":"7",
+    "question": "What is the most commonly used microscope?",
+    "choice1": "Electron microscope",
+    "choice2": "Simple microscope",
+    "choice3": "Flourescence microscope",
+    "choice4": "Compound microscope",
+    "answer": 4
+  },
+{
+    "QNo.":"8",
+    "question": "Which part of the microscope allows one to switch between lenses?",
+    "choice1": "Eyepiece",
+    "choice2": "secondary focus knob",
+    "choice3": "Revolving nose piece",
+    "choice4": "Condenser",
+    "answer": 3
+  },
+{
+    "QNo.":"9",
+    "question": "Whihch lens concentrates the light in a compound microscope?",
+    "choice1": "Focus piece",
+    "choice2": "condenser",
+    "choice3": "ocular lens",
+    "choice4": "Eyepiece",
+    "answer": 2
+  },
+{
+    "QNo.":"10",
+    "question": "What is the size of the smallest object observed under the microscope?",
+    "choice1": "1mm",
+    "choice2": "0.8mm",
+    "choice3": "2nm",
+    "choice4": "500nm",
+    "answer": 4
+  },
+{
+    "QNo.":"11",
+    "question": "To obtain total magnification, you should ____ the magnification of the eyepiece to the objective lens power",
+    "choice1": "Add",
+    "choice2": "Multiply",
+    "choice3": "Subtract",
+    "choice4": "Divide",
+    "answer": 2
+  },
+{
+    "QNo.":"12",
+    "question": "A microscope is set to 10x eyepiece and 40x objective. What is the total magnification?",
+    "choice1": "400x",
+    "choice2": "50x",
+    "choice3": "4x",
+    "choice4": "410x",
+    "answer": 1
+  },
+{
+    "QNo.":"13",
+    "question": "The two knobs used for focusing the image include fine adjustment knob and?",
+    "choice1": "Course adjustment knob",
+    "choice2": "Diaphragm",
+    "choice3": "Objective lens",
+    "choice4": "Stage",
+    "answer": 1
+  },
+{
+    "QNo.":"14",
+    "question": "A light microscope is also referred to as a",
+    "choice1": "Electron microscope",
+    "choice2": " Compound microscope",
+    "choice3": "Scanning problem microscope",
+    "choice4": "X-ray",
+    "answer": 3
+  },
+{
+    "QNo.":"15",
+    "question": "Upto how many times can an electron microscope magnify an object?",
+    "choice1": "50 thousand",
+    "choice2": "10 thousand",
+    "choice3": "10 million",
+    "choice4": "1 million",
+    "answer": 4
+  },
+{
+    "QNo.":"16",
+    "question": "Electron microscopes are used to examine",
+    "choice1": "Whole cells",
+    "choice2": "Old coins",
+    "choice3": "Structures inside cells",
+    "choice4": "Sand particles",
+    "answer": 3
+  },
+{
+    "QNo.":"17",
+    "question": "What is the main limitation of electron microscopes?",
+    "choice1": "the surface structure cannot be seen",
+    "choice2": "Living cells cannot be observed",
+    "choice3": "Structures inside cells cannot be observed",
+    "choice4": "All of the above",
+    "answer": 2
+  },
+{
+    "QNo.":"18",
+    "question": "What is the stage of a microscope used for?",
+    "choice1": "To magnify an image",
+    "choice2": "To shine light through a sample",
+    "choice3": "To hold a sample for viewing",
+    "choice4": "To rotate the objective lenses",
+    "answer": 3
+  },
+{
+    "QNo.":"19",
+    "question": "A student wants to view cells under the compound microscope at a total magnification of 500X. If the eyepiece is 10X, which of the following objective lenses should be used?",
+    "choice1": "400x",
+    "choice2": "40x",
+    "choice3": "100x",
+    "choice4": "50x",
+    "answer": 4
+  },
+{
+    "QNo.":"20",
+    "question": "Where do you look into the microscope from?",
+    "choice1": "focus knob",
+    "choice2": "Eyepiece",
+    "choice3": "condenser",
+    "choice4": "objective lens",
+    "answer": 3
+  }
+]
