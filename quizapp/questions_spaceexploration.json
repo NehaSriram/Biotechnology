@@ -1,0 +1,136 @@
+var question_bank =	[ 
+
+  
+                          {"label":"Question 1",  "value":1,  
+                         "question":"What was the first artificial satellite to be launched?",
+                         "options":["Apollo 11","Sputnik 1","Chandrayaan","Luna 2"], 
+                         "answer":"Sputnik 1"},
+
+
+
+                        {"label":"Question 2",  "value":1,  
+                         "question":"Around how many spacecrafts have been launched till date?",
+                         "options":["5000","1000","500","10000"],
+                         "answer":"5000"},
+
+
+                        {"label":"Question 3",  "value":1,  
+                         "question":"What was the purpose of project Apollo?",
+                         "options":["To study and orbit the Earth","To see the sun","To take humans to the Moon","To take humans to Mars"],
+                         "answer":"To take humans to the Moon"},
+                         
+                         
+                         {"label":"Question 4",  "value":1,  
+                         "question":"What is a space station?", 
+                         "options":["Spacecrafts that stay in orbit for a long period of time","A stationary space pod in the middle of outer space","Travelling spacecrafts that help Astronauts get to different planets","None of the above"], 
+                         "answer":"Spacecrafts that stay in orbit for a long period of time"},
+                         
+                         
+                         {"label":"Question 5",  "value":1,  
+                         "question":"What are the Advantages of space research?", 
+                         "options":["High Speed","Health problems","Less cost","Increases the knowledge"], 
+                         "answer":"Increases the knowledge"},
+                         
+                         
+                         {"label":"Question 6",  "value":1,  
+                         "question":"Who was the first woman in space?", 
+                         "options":["Yury Gagarin","Kangana Ranaut","Ryan Stone","Valentina Tereshkova"], 
+                         "answer":"Valentina Tereshkova"},
+                         
+                         
+                         {"label":"Question 7",  "value":1,  
+                         "question":"Who was the first human to circle Earth in space?", 
+                         "options":["Neil Armstrong","Yury Gagarin","Buzz Aldrin","None of the above"], 
+                         "answer":"Yury Gagarin"},
+                         
+                         
+                         {"label":"Question 8",  "value":1,  
+                         "question":"Which of these are essenial parts of an astonaut's training?", 
+                         "options":["They learn to operate their spacecraft by using computer-controlled simulators. ","They improve their physical fitness","They get used to the feeling of weightlessness.","All of the above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                         {"label":"Question 9",  "value":1,  
+                         "question":"How do Astronauts survive in space?", 
+                         "options":["They travel in sealed compartments and carry oxygen", "They regularly replace the air with that from outer space", "They use windows for cross ventilation.","All of the above"], 
+                         "answer":"They travel in sealed compartments and carry oxygen"},
+                         
+                         
+                         {"label":"Question 10",  "value":1,  
+                         "question":"Who was the first man on the moon?", 
+                         "options":["Rakesh Sharma","Yury Gagarin","Neil Armstrong","Tony Stark"], 
+                         "answer":"Neil Armstrong"},
+                         
+                         
+                         {"label":"Question 11",  "value":1,  
+                         "question":"What are the disadvantages of space research?", 
+                         "options":["Large amount of money","Health problems","All of the above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                         {"label":"Question 12",  "value":1,  
+                         "question":"Which rocket was the first rocket that was sent into the space?", 
+                         "options":["Ariane-5 VA- 251","PSLV-C47","R-7 ICBM","PSLV-C48"], 
+                         "answer":"DR-7 ICBM"},
+                         
+                         
+                         {"label":"Question 13",  "value":1,  
+                         "question":"Which country was the first to send the rocket into the space?", 
+                         "options":["US","Japan","Russia","China"], 
+                         "answer":"Russia"},
+                         
+                         
+                         {"label":"Question 14",  "value":1,  
+                         "question":"What is NOT attached to a space shuttle?", 
+                         "options":["Rockets","Fuel tanks","Oxygen tanks","Wheels"], 
+                         "answer":"Wheels"},
+                         
+                         
+                         {"label":"Question 15",  "value":1,  
+                         "question":"What is interstellar space travel?", 
+                         "options":["Travel between stars","Travel between planets","travel to the sun","All of the above"], 
+                         "answer":"Travel between stars"},
+                         
+                         
+                         {"label":"Question 16",  "value":1,  
+                         "question":"What is NOT true about interstellar travel?", 
+                         "options":["It is more difficult than travel in the solar system","The energy would come from a Lazer base station","There is no suitable technology at present","None of these"], 
+                         "answer":"None of these"},
+                         
+                         
+                         {"label":"Question 17",  "value":1,  
+                         "question":"What is the full form of ISRO?", 
+                         "options":["Indian Space Research Organisation","Indian Shuttle Research Organisation","Indian Satellite Research Organisation","None of the above"], 
+                         "answer":"Indian Space Research Organisation"},
+                         
+                         
+                         {"label":"Question 18",  "value":1,  
+                         "question":"What is the name of the first Satellite built by India?", 
+                         "options":["Chandrayaan","Mangalyaan","Aryabhata","Sputnik 1"], 
+                         "answer":"Aryabhata"},
+                         
+                         
+                         {"label":"Question 19",  "value":1,  
+                         "question":"When was the Mars Orbiter Mission launched in India?", 
+                         "options":["1990","2013","2018","2006"], 
+                         "answer":"2006"},
+                         
+                         
+                         {"label":"Question 20",  "value":1,  
+                         "question":"Which is the first nation to succeed on it's first attempt to Mars?", 
+                         "options":["India","USA","Russia","Singapore"], 
+                         "answer":"India"}
+                         
+                      
+                         
+                         
+                         
+  
+  
+  ];
+  
+
+
+
+
+                       
