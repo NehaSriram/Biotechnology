@@ -1,6 +1,4 @@
-var question_bank =	[    //don't edit this line!!!
-
-//you can edit from below.
+var question_bank =	[    
 
                          {"label":"Question 1",  "value":1,  
                          "question":"What body system is made up of bones, ligaments, and tendons?", 
@@ -10,7 +8,7 @@ var question_bank =	[    //don't edit this line!!!
 
                          {"label":"Question 2",  "value":1,  
                          "question":" What body system uses the spinal cord and nerves to communicate with the brain?",
-                         "options":[" Nervous system",Skeletal system","Respiratory system","Digestive system"], 
+                         "options":[" Nervous system","Skeletal system","Respiratory system","Digestive system"], 
                          "answer":"Nervous system"},
 
 
