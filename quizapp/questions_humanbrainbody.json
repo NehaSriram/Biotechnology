@@ -1,0 +1,128 @@
+var question_bank =	[    //don't edit this line!!!
+
+//you can edit from below.
+
+                         {"label":"Question 1",  "value":1,  
+                         "question":"What body system is made up of bones, ligaments, and tendons?", 
+                         "options":[ "Nervous system","Cardiovascular system","Digestive system","Skeletal system"], 
+                         "answer":"Skeletal system"},
+
+
+                         {"label":"Question 2",  "value":1,  
+                         "question":" What body system uses the spinal cord and nerves to communicate with the brain?",
+                         "options":[" Nervous system",Skeletal system","Respiratory system","Digestive system"], 
+                         "answer":"Nervous system"},
+
+
+                         {"label":"Question 3",  "value":1,  
+                         "question":"What body system helps convert food into energy and nutrients the body can use?",
+                         "options":["Cardiovascular system","Digestive system","Skeletal system","Respiratory system"], 
+                         "answer":"Digestive system"}, 
+
+
+                         {"label":"Question 4",  "value":1,  
+                         "question":"What body system brings oxygen into the body using the lungs?",
+                         "options":["Nervous system","Cardiovascular system","Respiratory system","Skeletal system"],
+                         "answer":"Respiratory system"}, 
+
+
+                         {"label":"Question 5",  "value":1,  
+                         "question":"What body system includes the heart, blood, and blood vessels?",
+                         "options":["Nervous system","Cardiovascular system","Digestive system","Skeletal system"], 
+                         "answer":"Cardiovascular system"},
+
+
+                         {"label":"Question 6",  "value":1,  
+                         "question":"What body system includes the kidneys, bladder, and urethra?",
+                         "options":["Endocrine system","Integumentary system","Immune system","Urinary system"], 
+                         "answer":"Urinary system"},
+
+
+                         {"label":"Question 7",  "value":1,  
+                         "question":" What body system produces hormones to help regulate the other systems of the body?",
+                         "options":["Integumentary system","Endocrine system","Muscular system","Immune system"], 
+                         "answer":"Endocrine system"},
+
+
+                         {"label":"Question 8",  "value":1,  
+                         "question":"What body system protects the outside of the body with skin, hair, and nails?",
+                         "options":["Endocrine system","Integumentary system","Muscular system","Immune system"], 
+                         "answer":"Integumentary system"},
+
+
+                         {"label":"Question 9",  "value":1,  
+                         "question":"What body system protects the body from disease?",
+                         "options":["Integumentary system","Muscular system","Immune system","Urinary system"], 
+                         "answer":"Immune system"},
+                         
+
+                         {"label":"Question 10",  "value":1,  
+                         "question":"What body system helps the body to move and interact with the world?",
+                         "options":["Endocrine system","Integumentary system","Muscular system","Immune system"], 
+                         "answer":"Muscular system"},
+
+
+                         {"label":"Question 11",  "value":1,  
+                         "question":"What does the brain do?",
+                         "options":["Form emotions","Solve problems","Control the body","All of the Above"], 
+                         "answer":"All of the above"},
+
+
+                         {"label":"Question 12",  "value":1,  
+                         "question":" What protects the brain?",
+                         "options":["Skull","Heart","Lungs","Kidneys"], 
+                         "answer":"Skull"},
+
+
+                        {"label":"Question 13",  "value":1,  
+                         "question":"The brain is part of which system?",
+                         "options":["Cardiovascular System","Nervous System","Digestive System","Respiratory System"], 
+                         "answer":"Nervous system"},
+
+
+                         {"label":"Question 14",  "value":1,  
+                         "question":"Which part of the brain can learn motor movements?"],
+                         "options":["Cerebrum","Cerebral Cortex","Cerebellum","Thalamus"], 
+                         "answer":"Cerebellum"},
+                         
+
+                         {"label":"Question 15",  "value":1,  
+                         "question":"Which of the following is NOT a function that is controlled by the brain stem??",
+                         "options":["Breathing","Digestion","Vision","Heart Rate"], 
+                         "answer":"Vision"},
+
+
+                         {"label":"Question 16",  "value":1,  
+                         "question":" Which part of the brain controls senses like hearing or touch?",
+                         "options":["Cerebrum","Cerebral Cortex","Cerebellum","Thalamus"], 
+                         "answer":"Cerebrum"},
+
+
+                         {"label":"Question 17",  "value":1,  
+                         "question":"What is the surface of the Cerebrum called?",
+                         "options":["Cerebrum","Cerebral Cortex","Cerebellum","Thalamus"], 
+                         "answer":"Cerebral Cortex"},
+
+
+                         {"label":"Question 18",  "value":1,  
+                         "question":"True or False: Scientists are still not sure how long term memory actually works.",
+                         "options":["TRUE","FALSE","Not known","Cannot say"], 
+                         "answer":"TRUE"},
+
+
+
+                         {"label":"Question 19",  "value":1,  
+                         "question":"How is energy sent to the brain?",
+                         "options":[" Oxygen","Nerves","Bacteria","Blood"], 
+                         "answer":"Blood"},
+
+
+                         {"label":"Question 20",  "value":1,  
+                         "question":"True or False: The left side of the brain controls the left half of the body and the right side of the brain controls the right half of the body.",
+                         "options":[""TRUE","FALSE","Not known","Cannot say""], 
+                         "answer":"FALSE"}
+        
+
+
+
+                    ];//don't edit this line
