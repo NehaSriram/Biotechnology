@@ -1,0 +1,124 @@
+var question_bank =	[  
+
+		{"label":"Question 1",  "value":1,  
+                         "question":"What is the full form of DNA?", 
+                         "options":["Ribonucleic acid","Deoxyribonucleic acid","Mitochondrial Deoxyribonucleic acid","Autosomal Deoxyribonucleic acid"], 
+                         "answer":"Deoxyribonucleic acid"},
+
+
+                         {"label":"Question 2",  "value":1,  
+                         "question":"In which year DNA was discovered?",
+                         "options":["1850","1869","1870","1890"], 
+                         "answer":"1869"},
+
+
+                         {"label":"Question 3",  "value":1,  
+                         "question":"Who discovered DNA?",
+                         "options":["Robert Hooke","Charles Darwin","Friedrich Miesher","Karl Ernst Von Baer"], 
+                         "answer":"Friedrich Miesher"}, 
+
+
+                         {"label":"Question 4",  "value":1,  
+                         "question":"DNA helps cells to make which substances?",
+                         "options":["Carbohydrates","Proteins","Fats","Vitamins"], 
+                         "answer":"Proteins"}, 
+
+
+                         {"label":"Question 5",  "value":1,  
+                         "question":"Which chemical bases are present in DNA?",
+                         "options":["Adenine","Guanine","Thymine","All of the options"], 
+                         "answer":"All of the options"},
+
+
+                         {"label":"Question 6",  "value":1,  
+                         "question":" How many types of nucleotides are there in DNA?",
+                         "options":["Two","Three","Four","Five"], 
+                         "answer":"Four"},
+
+
+                         {"label":"Question 7",  "value":1,  
+                         "question":"Three letters of DNA nucleotides make up a word called a _____.",
+                         "options":["Codon","Chromosome","Nucleus","Gene"], 
+                         "answer":"Codon"},
+
+
+                         {"label":"Question 8",  "value":1,  
+                         "question":" Phosphate and deoxyribose make up what part of DNA?",
+                         "options":["Chromosomes","Bases","Genes","Backbone"], 
+                         "answer":"Backbone"},
+
+
+                         {"label":"Question 9",  "value":1,  
+                         "question":"What is the shape of a DNA molecule called?",
+                         "options":["Octahedral","Covalent","Double helix","Triple Triangle"], 
+                         "answer":"Double helix"},
+                         
+
+                         {"label":"Question 10",  "value":1,  
+                         "question":" What did Francis Crick and James Watson discover?",
+                         "options":["That traits were inherited from an organism's parents","The electron microscope","The chromosome in the human cell","The structure of the DNA molecule"], 
+                         "answer":"The structure of the DNA molecule"},
+        
+
+                         {"label":"Question 11",  "value":1,  
+                         "question":"What is a stem cell?",
+                         "options":["A cell that can make copies of itself AND make more specialized types of cell","A cell that helps to fight against infections","A cell that is specialized","A cell that can produce all the cell types of the body"], 
+                         "answer":"A cell that can make copies of itself AND make more specialized types of cell"},
+
+
+                         {"label":"Question 12",  "value":1,  
+                         "question":"What are the two types of stem cells?",
+                         "options":["Embryonic stem cells and Adult stem cells","Skin stem cells and Neural stem cells","Adult stem cells and Neural stem cells","Skin stem cells and Embryonic stem cells"], 
+                         "answer":"Embryonic stem cells and Adult stem cells"},
+        
+
+                         {"label":"Question 13",  "value":1,  
+                         "question":"Which food helps to improve stem cells?",
+                         "options":["Pomegranate","Blueberries","Blackberries","All the above"], 
+                         "answer":"All of the above"},
+
+
+                         {"label":"Question 14",  "value":1,  
+                         "question":"What are the disadvantages of stem cell therapy?",
+                         "options":["Rashes","Vomiting","Hair loss","All the above"], 
+                         "answer":"All of the above"},
+        
+
+                         {"label":"Question 15",  "value":1,  
+                         "question":"Which is correct about a stem cell?",
+                         "options":["They never die","They can make other type of cells","They come from brain stem","They cannot make new cells."], 
+                         "answer":"They can make other type of cells"},
+
+
+                         {"label":"Question 16",  "value":1,  
+                         "question":"Where can scientists obtain stem cells?",
+                         "options":["Only from an embryo","Only from tissues in the body","Only from the brain","From an embryo or tissues in the body"], 
+                         "answer":"From an embryo or tissues in the body"},
+        
+        
+                        {"label":"Question 17",  "value":1,  
+                         "question":"Embryonic stem cells can differentiate into which types of cell?",
+                         "options":["Only brain stem cells and specialized brain cells","All types of specialized cells","Only cells that can produce insulin","Only cells that can produce artificial skin"], 
+                         "answer":"All types of specialized cells"},
+        
+        
+                         {"label":"Question 18",  "value":1,  
+                         "question":"Neural stem cells from the brain can differentiate into which types of cell?",
+                         "options":["Only specialized brain cells","Specialized brain cells and specialized skin cells","All types of specialized cells","Only specialized blood cells"], 
+                         "answer":"Only specialized brain cells"},
+                         
+                         
+                         {"label":"Question 19",  "value":1,  
+                         "question":"What are cells ‘fed’ when they are grown in a lab?",
+                         "options":["Antibodies","Proteins and sugars","Salts","Other cells"], 
+                         "answer":"Proteins and sugars"},
+                         
+                         
+                         {"label":"Question 20",  "value":1,  
+                         "question":"A blastocyst is…",
+                         "options":["A very early stage embryo","A type of stem cell","Part of the blood system","A type of brain cell"], 
+                         "answer":"A very early stage embryo"}
+
+
+
+  ];
