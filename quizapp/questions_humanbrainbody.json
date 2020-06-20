@@ -79,7 +79,7 @@ var question_bank =	[
 
 
                          {"label":"Question 14",  "value":1,  
-                         "question":"Which part of the brain can learn motor movements?"],
+                         "question":"Which part of the brain can learn motor movements?",
                          "options":["Cerebrum","Cerebral Cortex","Cerebellum","Thalamus"], 
                          "answer":"Cerebellum"},
                          
@@ -117,10 +117,10 @@ var question_bank =	[
 
                          {"label":"Question 20",  "value":1,  
                          "question":"True or False: The left side of the brain controls the left half of the body and the right side of the brain controls the right half of the body.",
-                         "options":[""TRUE","FALSE","Not known","Cannot say""], 
+                         "options":["TRUE","FALSE","Not known","Cannot say"], 
                          "answer":"FALSE"}
         
 
 
 
-                    ];//don't edit this line
+                    ];
