@@ -1,0 +1,123 @@
+
+  var question_bank =	 [
+                      
+                      
+                         {"label":"Question 1",  "value":1,  
+                         "question":"Who is the founder of Biotechnology?",
+                         "options":["Gregor Mendel","Francis Crick","Karl Ereky","Louis Pasteur"], 
+                         "answer":"Karl Ereky"},
+                         
+                           {"label":"Question 2",  "value":1,  
+                         "question":"How many stages are there in Biotechnology? ?",
+                         "options":["5","3","1","7"], 
+                         "answer":"3"},
+                         
+                         
+                           {"label":"Question 3",  "value":1,  
+                         "question":"What are stages in Biotechnology?",
+                         "options":["Ancient","Classical","Modern","All of above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                           {"label":"Question 4",  "value":1,  
+                         "question":"What are the products produced by biotechnology?",
+                         "options":["Cheese","Yogurt","Bread","All of above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                           {"label":"Question 5",  "value":1,  
+                         "question":"In which year was Biotechnology coined?",
+                         "options":["1919","1930","1925","1910"], 
+                         "answer":"1919"},
+                         
+                         
+                           {"label":"Question 6",  "value":1,  
+                         "question":"What was the first mammal to be cloned?",
+                         "options":["Dolly the sheep","Nemo the fish","A rat","A crocodile"], 
+                         "answer":"Dolly the sheep"},
+                         
+                         
+                           {"label":"Question 7",  "value":1,  
+                         "question":"What is bioleaching?",
+                         "options":["Using natural pestcides to kill leaches","To make natural manure","Extracting metals using bacteria","None of the above"], 
+                         "answer":"Extracting metals using bacteria"},
+                         
+                         
+                           {"label":"Question 8",  "value":1,  
+                         "question":"What is bioremediation?",
+                         "options":["Finding remedies to diseases","Recycling and cleaning up contaminated sites","Both 1 and 2","Neither 1 or 2"], "answer":"Recycling and cleaning up contaminated sites"},
+                         
+                         
+                           {"label":"Question 9",  "value":1,  
+                         "question":"What is the term coined for aquatic and marine related biotechnology?",
+                         "options":["Blue biotechnology","Green biotechnology","Red biotechnology","WHite biotechnology"], 
+                         "answer":"Blue biotechnology"},
+                         
+                         
+                           {"label":"Question 10",  "value":1,  
+                         "question":"What is the term coined for industrial biotechnology?",
+                         "options":["Blue biotechnology","Green biotechnology","Red biotechnology","White biotechnology"], 
+                         "answer":"White biotechnology"},
+                         
+                         
+                           {"label":"Question 11",  "value":1,  
+                         "question":"What is the term coined for biotechnology applied to medicsl processes?",
+                         "options":["Blue biotechnology","Green biotechnology","Red biotechnology","White biotechnology"], 
+                         "answer":"Red biotechnology"},
+                         
+                         
+                           {"label":"Question 12",  "value":1,  
+                         "question":"Give an example of a transgenic plant",
+                         "options":["Bt cotton","Bt corn","Both 1 and 2","Brinjal"], 
+                         "answer":"Both 1 and 2"},
+                         
+                         
+                           {"label":"Question 13",  "value":1,  
+                         "question":"What is NOT a part of Green biotechnology?",
+                         "options":["Agriculture","Pesticides","Transgenic plants","Catalysts"],
+                         "answer":"Catalysts"},
+                         
+                         
+                           {"label":"Question 14",  "value":1,  
+                         "question":"How many Amino acids can be used to  build proteins in total?",
+                         "options":["15","20","25","18"],
+                         "answer":"20"},
+                         
+                         
+                           {"label":"Question 15","value":1,  
+                         "question":"What functions can proteins perform?",
+                         "options":["Transportation","movement","Structural support","All of the above"],
+                         "answer":"All of the above"},
+                         
+                         
+                           {"label":"Question 16",  "value":1,  
+                         "question":"What is analysed in Bioinformatics?",
+                         "options":["DNA","RNA","Amino acids","All of the above"],
+                         "answer":"All of the above"},
+                         
+                         
+                           {"label":"Question 17",  "value":1,  
+                         "question":"What does HGP stand for?",
+                         "options":["Hyper Geometric Progression","Human Genome Project","Human Genome Project","Human Genetics Project"], 
+                         "answer":"Human Genome Project"},
+                         
+                         
+                           {"label":"Question 18",  "value":1,  
+                         "question":"What was the aim of HGP?",
+                         "options":["To sequence the entire living genome og human beings","To understand how humans grow","To understand evolution better","All of the above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                           {"label":"Question 19",  "value":1,  
+                         "question":"How many genes does the Human Genome consist of, roughly?",
+                         "options":["1000","20,000","25,000","40,000"], 
+                         "answer":"25,000"},
+                         
+                         
+                         {"label":"Question 20",  "value":1,  
+                         "question":"What are chromosomes made up of?",
+                         "options":["DNA","RNA","Proteins","All of the above"], 
+                         "answer":"DNA"}
+                         
+                         
+ ];
