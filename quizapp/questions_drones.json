@@ -1,0 +1,126 @@
+var question_bank= [
+
+
+                        {"label":"Question 1",  "value":1,  
+                         "question":"Drones are also  referred to as",
+                         "options":[ "UAP","PAV","QAV","UAV"], 
+                         "answer":"UAV"},
+                         
+                         
+                         {"label":"Question 2",  "value":1,  
+                         "question":"How does infra-red technology help farmers?",
+                         "options":["It makes the crops look more colourful.","It shows if plants are stressed or if there is any bare earth.","It makes the drones fly faster.","It stops the grubs and bugs which harm the crops."], 
+                         "answer":"It shows if plants are stressed or if there is any bare earth."},
+                         
+                         
+                         {"label":"Question 3",  "value":1,  
+                         "question":"Name the two main types of drones",
+                         "options":["Government-owned and casual","Military and civilian","Armed and unarmed","Photo-type and video-type"], 
+                         "answer":"Military and civilian"},
+                         
+                         
+                         {"label":"Question 4",  "value":1,  
+                         "question":"Drones can be used for",
+                         "options":["Agriculture","Military","Videography","All of the above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                         {"label":"Question 5",  "value":1,  
+                         "question":"How can the flight of drones be controlled?",
+                         "options":["Auto pilot","remote control by a pilot on the ground","Both 1 and 2","Using lazers"], 
+                         "answer":"Both 1 and 2"},
+                         
+                         
+                         {"label":"Question 6",  "value":1,  
+                         "question":"Drones have been used to take footage of",
+                         "options":["Many famous movies", "Sports events","Calamities","All of the above"],
+                         "answer":"All of the above"},
+                         
+                         
+                         {"label":"Question 7",  "value":1,  
+                         "question":"what does NOT contribute to the ability of drones to find structural flaws?",
+                         "options":[ "They can take high resolution images","They can perform lazer scans","They can deliver packages","They can get close in treacherous places"], 
+                         "answer":"They can deliver packages"},
+                         
+                         
+                         {"label":"Question 8",  "value":1,  
+                         "question":"Who invented the drone?",
+                         "options":["Reginald Denny","Thomas Alva Edison","The Wright Brothers","Meera Parmesh"], 
+                         "answer":"Reginald Denny"},
+                         
+                         
+                         {"label":"Question 9",  "value":1,  
+                         "question":"Which country remains the largest manufacturer and exporter of military and defence drones?",
+                         "options":["Iraq","Iran","USA","Israel"], 
+                         "answer":"Israel"},
+                         
+                         
+                         {"label":"Question 10",  "value":1,  
+                         "question":"What is an integral part of the drone?",
+                         "options":["Battery","Natural gas","Diesel","Oil"], 
+                         "answer":"Battery"},
+                         
+                         
+                         {"label":"Question 11",  "value":1,  
+                         "question":"What are the disadvantages of drones?",
+                         "options":["Affected by weather","Wireless problems","Operation is difficult","All the above"], 
+                         "answer":"All of the above"},
+                         
+                         
+                         {"label":"Question 12",  "value":1,  
+                         "question":"Whcih company developed Prime air service?",
+                         "options":["Amazon","Apple","Walmart","Microsoft"], 
+                         "answer":"Amazon"},
+                         
+                         
+                        {"label":"Question 13",  "value":1,  
+                         "question":"How do drones mainly contribute to the wildlife sector?",
+                         "options":["Keeping a check on poaching and hunting","Photography","Tourism","To feed the animals"], 
+                         "answer":"Keeping a check on poaching and hunting"},
+                         
+                         
+                         {"label":"Question 14",  "value":1,  
+                         "question":"What technology keeps drones from entering restricted airspace?",
+                         "options":["Geofencing","Spyware","gyrospheres","Lazer scans"], 
+                         "answer":"Geofencing"},
+                         
+                         
+                         {"label":"Question 15",  "value":1,  
+                         "question":"What novel anti-drone solution have the Netherlands national police developed?",
+                         "options":["Illegalizing all drone flight","Shooting down drones","Training Eagles to attack drones","All of the above"], 
+                         "answer":"Training Eagles to attack drones"},
+                         
+                         
+                         
+                         {"label":"Question 16",  "value":1,  
+                         "question":"What was the function of the first drone?",
+                         "options":["To spy on civilians","To attack terrorists","To locate animals","Photographing Landscapes"], 
+                         "answer":"To attack terrorists"},
+                         
+                         
+                         {"label":"Question 17",  "value":1,  
+                         "question":"What is the average time of flight for a drone?",
+                         "options":["5 mins","10 mins","30 mins","45 mins"], 
+                         "answer":"10 mins"},
+                         
+                         
+                         {"label":"Question 18",  "value":1,  
+                         "question":"Which of the following countries has banned drones?",
+                         "options":["Iran","India","China","Mexico"], 
+                         "answer":"Iran"},
+                         
+                         
+                         {"label":"Question 19",  "value":1,  
+                         "question":"Which type of UAV weighs less than 25 kg?",
+                         "options":["Micro UAV, Miniature UAV, Heavy UAV, None of the above"], 
+                         "answer":"Miniature UAV"},
+                         
+                         
+                         {"label":"Question 20",  "value":1,  
+                         "question":"Which type of UAV can weigh weigh less than 1g?",
+                         "options":["Micro UAV, Miniature UAV, Heavy UAV, None of the above"], 
+                         "answer":"Micro UAV"}
+                         
+                         
+                         
+];
